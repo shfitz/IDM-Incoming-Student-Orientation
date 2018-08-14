@@ -1,96 +1,108 @@
-IDM Co-Directors
-R. Luke DuBois, MAGNET 884, dubois@nyu.edu
+## IDM Co-Directors
 
-Scott Fitzgerald, MAGNET 882, scott.fitzgerald@nyu.edu
+[**R. Luke DuBois**](http://engineering.nyu.edu/people/r-luke-dubois), MAGNET 884, dubois@nyu.edu
 
-IDM Full-time Faculty
-Tega Brain brain@nyu.edu
+[**Scott Fitzgerald**](https://engineering.nyu.edu/faculty/scott-fitzgerald), MAGNET 882, scott.fitzgerald@nyu.edu
 
-Elizabeth Henaff ehenaff@nyu.edu
+## IDM Full-time Faculty
 
-Dana Karwas, MAGNET 878, dana.karwas@nyu.edu
+[**Tega Brain**](https://engineering.nyu.edu/faculty/tega-brain), brain@nyu.edu
 
-Benedetta Piantella benedetta.piantella@nyu.edu
+[**Elizabeth Henaff**](https://engineering.nyu.edu/faculty/elizabeth-henaff), ehenaff@nyu.edu
 
-Mark Skwarek, MAGNET 880, mls386@nyu.edu
+[**Dana Karwas**](http://engineering.nyu.edu/people/dana-karwas), MAGNET 878, dana.karwas@nyu.edu
 
-IDM Visiting Full-time Faculty
+Benedetta Piantella, benedetta.piantella@nyu.edu
+
+[**Mark Skwarek**](http://engineering.nyu.edu/people/mark-skwarek), MAGNET 880, mls386@nyu.edu
+
+## IDM Visiting Full-time Faculty
+
 Kathleen McDermott
 
-Todd Bryant
+[**Todd Bryant**](http://toddjbryant.com)
 
-NYU Full-time Faculty (who also teach for IDM)
-Anne-Laure Fayard (Engineering's Tech Management and Innovation)
+## NYU Full-time Faculty \(who also teach for IDM\)
 
-Anita Perr (Steinhardt's Occupational Therapy)
+[**Anne-Laure Fayard**](http://engineering.nyu.edu/people/anne-laure-fayard) \(Engineering's Tech Management and Innovation\)
 
-IDM Coordinator of Academic Programs
-Eric Maiello, MAGNET 879, eric.maiello@nyu.edu
+[**Anita Perr**](http://steinhardt.nyu.edu/faculty/Anita_Perr) \(Steinhardt's Occupational Therapy\)
 
-IDM Academic Advising
-Room Reservations at MAGNET
-Event Coordinator at MAGNET
-Card Access to MAGNET
-IDM Coordinator of Online Programs
+## IDM Coordinator of Academic Programs
+
+[**Eric Maiello**](http://engineering.nyu.edu/people/eric-maiello), MAGNET 879, eric.maiello@nyu.edu
+
+* IDM Academic Advising
+* Room Reservations at MAGNET
+* Event Coordinator at MAGNET
+* Card Access to MAGNET
+
+## IDM Coordinator of Online Programs
+
 Jenelle Woodrup
 
-IDM Academic Advising on-campus and on-line
-IDM Technical Director
-Elton Kwok , MAGNET 883, eltonkwok@nyu.edu
+* IDM Academic Advising on-campus and on-line
 
-In charge of all technical needs, including the equipment room.
-IDM Equipment Room
-Craft Room
-IDM Faculty Lockers
-Faculty Printing to MAGNET Copier
-IDM Adjunct Faculty
-Kaho Abe
+## IDM Technical Director
 
-Katie Adee
+[**Elton Kwok **](http://engineering.nyu.edu/people/elton-kwok), MAGNET 883, eltonkwok@nyu.edu
 
-Allison Berkoy
+* In charge of all technical needs, including the equipment room.
+* IDM Equipment Room
+* Craft Room 
+* IDM Faculty Lockers
+* Faculty Printing to MAGNET Copier
 
-Diana Castro
+## IDM Adjunct Faculty
 
-Arlene Ducao
+[**Kaho Abe**](http://kahoabe.net)
 
-Maria Dyer
+[**Katie Adee**](http://katieadee.com)
 
-Diego Garcia
+[**Allison Berkoy**](http://www.berkoy.com)
 
-Kato Hideki
+[**Diana Castro**](http://www.panali.cc)
 
-Matthew Hockenberry
+[**Arlene Ducao**](http://arlduc.org)
 
-Claire Kearney-Volpe
+[**Maria Dyer**](http://www.mariadyer.org)
 
-Javier Molina
+[**Diego Garcia**](http://radstronomical.com)
 
-Caitlin Morris
+[**Kato Hideki**](http://www.katohideki.com)
 
-Brandon Montclare
+[**Matthew Hockenberry**](http://supplystudies.com/hock/)
 
-Toni Pizza
+[**Claire Kearney-Volpe**](http://www.takinglifeseriously.com/index.html)
 
-Domenick Propati
+[**Javier Molina**](http://www.fmolinacruz.com)
 
-Beth Rosenberg
+[**Caitlin Morris**](http://www.caitlinmorris.net)
 
-Alfredo Salazar-Caro
+[**Brandon Montclare**](http://brandonmontclare.com)
 
-Michael Schumacher
+[**Toni Pizza**](http://www.tonithepizza.com)
 
-Jesse Seegers
+[**Domenick Propati**](http://www.kandppartners.com)
 
-Kevin Siwoff
+[**Beth Rosenberg**](http://www.techkidsunlimited.org)
 
-Winnie Song
+[**Alfredo Salazar-Caro**](http://www.salazarcaro.com)
 
-Sally Thurer
+[**Michael Schumacher**](http://michaeljschumacher.com)
 
-Jack Toolin
+[**Jesse Seegers**](http://jesseseegers.com)
 
-Robert Yang
+[**Kevin Siwoff**](http://studioindefinit.com)
 
-MD Adjunct Faculty
-Christian Howard
+[**Winnie Song**](http://wsong.me)
+
+[**Sally Thurer**](http://sallythurer.com)
+
+[**Jack Toolin**](http://jacktoolin.net)
+
+[**Robert Yang**](http://debacle.us)
+
+## MD Adjunct Faculty
+
+[**Christian Howard**](http://christianhoward.squarespace.com)
